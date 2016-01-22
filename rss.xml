@@ -4,11 +4,18 @@
         <description><![CDATA[Generation Y]]></description>
         <link>https://thegrid.ai/generationy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 23:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 23:33:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/generationy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Initial post]]></title>
+            <description><![CDATA[<h1>Initial post</h1>]]></description>
+            <link>https://thegrid.ai/generationy/initial-post/index.html</link>
+            <guid isPermaLink="false">ad9fc471-1060-4363-aa0a-f3d083f1341b</guid>
+            <pubDate>Fri, 22 Jan 2016 23:33:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ShiftXchange ]]></title>
-            <description><![CDATA[<article><h1>ShiftXchange </h1><p>Ist der einfachste Weg um mit einen Kollegen oder Freunden Schichten einfach und unkompliziert von überall zu jeder Zeit zu tauschen. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68303794599da594f9165fa28e4acc4bb32e874f.png"></article>]]></description>
+            <description><![CDATA[<article><h1>ShiftXchange </h1><p>Ist der einfachste Weg um mit einen Kollegen oder Freunden Schichten einfach und unkompliziert von überall zu jeder Zeit zu tauschen. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eeb586e8e7bfab3b4d905189a4a1c0b4fa69c825.png"></article>]]></description>
             <link>https://thegrid.ai/generationy/testtitel/index.html</link>
             <guid isPermaLink="false">1da2d011-c488-4beb-908d-ac8a77644ca3</guid>
             <pubDate>Fri, 22 Jan 2016 23:28:54 GMT</pubDate>
