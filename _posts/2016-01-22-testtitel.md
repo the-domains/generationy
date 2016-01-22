@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The easiest way to exchange shifts with colleges or friends!'
-datePublished: '2016-01-22T23:34:07.979Z'
-dateModified: '2016-01-22T23:34:03.780Z'
+datePublished: '2016-01-22T23:36:51.814Z'
+dateModified: '2016-01-22T23:36:47.408Z'
 title: ShiftXchange
 author: []
 sourcePath: _posts/2016-01-22-testtitel.md
@@ -22,6 +22,8 @@ url: testtitel/index.html
 _type: WebPage
 
 ---
-## ShiftXchange 
+## [ShiftXchange ][0]
 
 Ist der einfachste Weg um mit einen Kollegen oder Freunden Schichten einfach und unkompliziert von überall zu jeder Zeit zu tauschen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c2c3b852ca58475bdfc8211e8a8891d7cee981.png)
+
+[0]: shiftxchange
