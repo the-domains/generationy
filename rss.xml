@@ -4,11 +4,18 @@
         <description><![CDATA[Generation Y]]></description>
         <link>https://thegrid.ai/generationy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 22:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 23:05:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/generationy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Automatic: The Car App for Every Driver]]></title>
+            <description><![CDATA[<article><h1>Automatic: The Car App for Every Driver</h1><p>The Automatic app connects to the Automatic car adapter over Bluetooth and displays the details of every trip. The app offers features that every driver should have, like engine code diagnostics, emergency crash response from a live representative, a web app for desktop where you can review your data, and extensions for Apple Watch and Pebble.</p><img src="http://www.automatic.com/_assets/images/externals/facebook/automatic-default-22404f0a.jpg"></article>]]></description>
+            <link>https://www.automatic.com/home/</link>
+            <guid isPermaLink="false">25d9db9c-d469-44f3-a35b-29fb96e8d253</guid>
+            <pubDate>Fri, 22 Jan 2016 23:05:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Testtitel]]></title>
-            <description><![CDATA[<article><h1>Testtitel</h1><p>Dies ist ein Test-Post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bd3564fdc3ca0d34151653292bd1713e4541197.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Testtitel</h1><p>Dies ist ein Test-Post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95b8236494950ba5dde3a2ee654408cc1de70c44.png"></article>]]></description>
             <link>https://thegrid.ai/generationy/testtitel/index.html</link>
             <guid isPermaLink="false">1da2d011-c488-4beb-908d-ac8a77644ca3</guid>
             <pubDate>Fri, 22 Jan 2016 22:54:39 GMT</pubDate>
