@@ -1,6 +1,6 @@
 name: generationy
 favicon: null
-layout_spectrum: 0.92136
+layout_spectrum: 0.24757
 typography_spectrum: 0.66117
 title: Generation Y
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5440339324995875
+  brandStrength: 0.5625
   lightness: 0.125
   saturation: 0.5885439040139318
   rhythmicContrast: 0.25
