@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Automatic app connects to the Automatic car adapter over Bluetooth and displays the details of every trip. The app offers features that every driver should have, like engine code diagnostics, emergency crash response from a live representative, a web app for desktop where you can review your data, and extensions for Apple Watch and Pebble.'
-datePublished: '2016-01-22T23:07:44.442Z'
+datePublished: '2016-01-22T23:07:44.587Z'
 dateModified: '2016-01-22T23:07:41.986Z'
 author: []
 related: []
