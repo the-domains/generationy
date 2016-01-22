@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A service for shift exchange
-datePublished: '2016-01-22T23:20:42.435Z'
-dateModified: '2016-01-22T23:20:35.570Z'
+datePublished: '2016-01-22T23:26:18.803Z'
+dateModified: '2016-01-22T23:26:17.918Z'
 title: ShiftXchange
 author: []
 sourcePath: _posts/2016-01-22-testtitel.md
@@ -19,8 +19,9 @@ publisher:
   url: null
   favicon: null
 url: testtitel/index.html
-_type: Article
+_type: WebPage
 
 ---
-ShiftXchange ist eine Seite um einfach auf jedem Gerät Schichten mit Kollegen zu tauschen.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c2c3b852ca58475bdfc8211e8a8891d7cee981.png)
+## ShiftXchange 
+
+Ist der einfachste Weg um mit einen Kollegen oder Freunden Schichten einfach und unkompliziert von überall zu jeder Zeit zu tauschen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c2c3b852ca58475bdfc8211e8a8891d7cee981.png)
