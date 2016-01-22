@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: A service for shift exchange
-datePublished: '2016-01-22T23:26:18.946Z'
-dateModified: '2016-01-22T23:26:17.918Z'
+description: 'The easiest way to exchange shifts with colleges or friends!'
+datePublished: '2016-01-22T23:28:54.777Z'
+dateModified: '2016-01-22T23:28:27.665Z'
 title: ShiftXchange
 author: []
 sourcePath: _posts/2016-01-22-testtitel.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: testtitel/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## ShiftXchange 
