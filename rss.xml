@@ -4,8 +4,15 @@
         <description><![CDATA[Generation Y]]></description>
         <link>https://thegrid.ai/generationy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 23:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 23:35:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/generationy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Dieser Blog beschreibt ......</p></article>]]></description>
+            <link>https://thegrid.ai/generationy/about/index.html</link>
+            <guid isPermaLink="false">f32b9e20-c336-4adc-9c1a-eac371abc985</guid>
+            <pubDate>Fri, 22 Jan 2016 23:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Initial post]]></title>
             <description><![CDATA[<h1>Initial post</h1>]]></description>
