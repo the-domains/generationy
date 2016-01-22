@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The easiest way to exchange shifts with colleges or friends!'
-datePublished: '2016-01-22T23:51:06.114Z'
+datePublished: '2016-01-22T23:51:06.163Z'
 dateModified: '2016-01-22T23:50:59.624Z'
 title: ShiftXchange
 author: []
