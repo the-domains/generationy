@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: A service for shift exchange
-datePublished: '2016-01-22T23:19:27.176Z'
+datePublished: '2016-01-22T23:19:27.212Z'
 dateModified: '2016-01-22T23:19:20.829Z'
 title: ShiftXchange
 author: []
