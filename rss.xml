@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[The official blog of shiftXchange]]></title>
         <description><![CDATA[The official blog of shiftXchange]]></description>
-        <link>https://thegrid.ai/generationy/</link>
+        <link>https://thegrid.ai/shiftxchange/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 21:23:41 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/generationy/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Dieser Blog beschreibt ......</p></article>]]></description>
-            <link>https://thegrid.ai/generationy/about/index.html</link>
-            <guid isPermaLink="false">f32b9e20-c336-4adc-9c1a-eac371abc985</guid>
-            <pubDate>Fri, 22 Jan 2016 23:34:20 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 17 Apr 2016 10:58:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shiftxchange/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Initial post]]></title>
             <description><![CDATA[<article><h1>Initial post</h1><p>More to come....</p></article>]]></description>
-            <link>https://thegrid.ai/generationy/initial-post/index.html</link>
+            <link>https://thegrid.ai/shiftxchange/initial-post/index.html</link>
             <guid isPermaLink="false">ad9fc471-1060-4363-aa0a-f3d083f1341b</guid>
             <pubDate>Fri, 22 Jan 2016 23:34:14 GMT</pubDate>
         </item>
