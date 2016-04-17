@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-22T23:34:14.482Z'
-dateModified: '2016-01-22T23:33:47.504Z'
+description: More to come....
+datePublished: '2016-04-17T10:58:45.577Z'
+dateModified: '2016-04-17T10:57:09.612Z'
 title: Initial post
 author: []
 sourcePath: _posts/2016-01-22-initial-post.md
